@@ -1,2 +1,3 @@
 # TimeSeries-Python
-Doing NLP, ML, Data Science, Data Analytics projects in an efficient and valuable quality. 
+In this python book I have implemented a simple Time Series(TS) problem, named as Air Passenger forecasting. Please download dataset from [here](https://github.com/jbrownlee/Datasets/blob/master/airline-passengers.csv) and run the code.
+
